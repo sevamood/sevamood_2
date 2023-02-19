@@ -10,3 +10,8 @@ layout: category_index
 
 ##### Letter to: Yadunandana
 > We have to learn it step by step; just like we prepare prasadam, and ordinarily it is rice, dahl, and But when it is offered to Krishna, it becomes prasadam. How ordinary rice, dahl, and capatis turns into spiritual prasadam is to be understood by advancement
+
+<!-- | Config setting | Thumbnail |
+| --- | --- |
+| `theme_color: black` | <img width="330" alt="black" src="url"> |
+| `theme_color: red` | <img width="330" alt="red" src="url"> | -->
