@@ -5,7 +5,7 @@ layout: category_index
 ---
 # Prabhupada Quotes on Prasadam
 
-##### Srī Caitanya-caritāmṛta, Madhya-līlā 20.152–154##
+##### Śrī Caitanya-caritāmṛta, Madhya-līlā 20.152–154##
 > For example, just like we take kṛṣṇa-prasādam. Kṛṣṇa-prasādam, we respect prasādam. We offer obeisances before taking prasādam. Why? Because the prasādam is also Kṛṣṇa. So by taking prasādam, I am contacted Kṛṣṇa. By hearing Kṛṣṇa, I am contacted Kṛṣṇa.
 
 ##### Letter to: Yadunandana
