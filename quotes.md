@@ -1,6 +1,6 @@
 ---
 title: Quotes
-layout: page
+layout: category_index
 
 ---
 # Prabhupada Quotes on Prasadam
