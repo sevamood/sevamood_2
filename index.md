@@ -1,10 +1,8 @@
 ---
 layout: home
-permalink: "/"
-title: Athena Jekyll Theme
+permalink: /
+title: Sevamood
 
 ---
-
-A simple and elegant theme for Jekyll and GitHub Pages.
-
+A site hosting miscellaneous resources relevant to Krishna Consciousness.
 
