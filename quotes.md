@@ -1,5 +1,5 @@
 ---
-title: Quotes
+title: ''
 layout: page
 
 ---
