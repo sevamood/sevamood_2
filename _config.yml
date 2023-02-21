@@ -5,7 +5,7 @@ social_username: broccolini
 github_repo: athena
 github_username: broccolini
 theme_color: light
-remote_theme: internet-de-france/athena
+remote_theme: aterenin/minima-reboot
 baseurl: /sevamood
 defaults:
   - scope:
